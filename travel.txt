@@ -6,3 +6,10 @@ Packing list
 Pic Nique
 ---------
 - Bread
+
+
+Drugs
+--------
+- Tylenol
+- Allegra
+
